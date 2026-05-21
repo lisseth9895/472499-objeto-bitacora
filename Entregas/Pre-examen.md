@@ -10,25 +10,18 @@
 
 ## Estas respuestas pueden presentarse de distintas maneras: 
 * Necesidad de comer o beber algo específico constantemente. 
+* Repetición de palabras o muletillas. 
+* Ansiedad. 
+* Taquicardias. 
+* Necesidad de salir a caminar. 
+* Escuchar música. 
+* Bailar.
+* Fumar. 
+* Conversar. 
+* Estirar el cuerpo. 
+* Guardar silencio.
+* O buscar momentos breves de desconexión.
 
-Repetición de palabras o muletillas. 
-
-Ansiedad. 
-
-Taquicardias. 
-
-Necesidad de salir a caminar. 
-
-Escuchar música. 
-
-Bailar. 
-
-Fumar. 
-
-Conversar. 
-
-Estirar el cuerpo. 
-
-Guardar silencio. 
-
-O buscar momentos breves de desconexión. 
+### A partir de entrevistas y recopilación de datos, se construirá una especie de archivo corporal del cansancio ###creativo, donde cada testimonio funcionará como un registro físico y emocional del proceso artístico independiente. 
+### La información recopilada será reorganizada visualmente dentro de un fanzine, utilizando recursos de diseño calado y fragmentación textual. Los patrones repetitivos encontrados en las entrevistas serán traducidos a composiciones visuales inspiradas en ritmos corporales, respiraciones, pausas, impulsos nerviosos y conductas automáticas generadas por el estrés. 
+  
