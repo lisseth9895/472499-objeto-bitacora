@@ -1,9 +1,9 @@
-## Crear una frase y describir una relación entre ellos
+# Crear una frase y describir una relación entre ellos
 
 ## Palabras clave
 
-### Dibujo, madera, manos
-### Enuncia, sospechas, molestosas
+#### Dibujo, madera, manos
+#### Enuncia, sospechas, molestosas
 
 ## frases
 
