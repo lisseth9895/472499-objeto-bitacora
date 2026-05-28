@@ -32,8 +32,9 @@
 
 ## Boceto 
 
-![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/ad46435d7da8f7c20fc4524f994a3ef024187a1c/boceto.jpg)
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f53f4527ccf85d77553d42f5d25af21e6c691de3/boceto1.jpg)
 
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/1d6a67e8d284b956678ae39a2d13d940c6c2401c/boceto2.png)
 
 
 
