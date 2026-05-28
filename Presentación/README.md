@@ -30,15 +30,20 @@
 ### Retribución para HAMBRE HAMBRE HAMBRE
 #### La obra final o un fanzine nuevo de papel 
 
-## Boceto 
+## Boceto y ejemplos de como quedaría
 
-![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f53f4527ccf85d77553d42f5d25af21e6c691de3/boceto1.jpg)
 
 ![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/1d6a67e8d284b956678ae39a2d13d940c6c2401c/boceto2.png)
 
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f5e7a8b4bcf5f62e2e2a1610bce767523b57f180/carton%20en%20espejo2.png)
 
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f5e7a8b4bcf5f62e2e2a1610bce767523b57f180/malla2.png)
 
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f5e7a8b4bcf5f62e2e2a1610bce767523b57f180/malla%20al%20sol2.png)
 
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/f5e7a8b4bcf5f62e2e2a1610bce767523b57f180/calado%20carton%20largo2.png)
+
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/d6d891116d6b0c61b838387ca2660294d1ea073d/detalle%20carton%20pared2.png)
 
 
 
