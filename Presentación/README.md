@@ -32,7 +32,7 @@
 
 ## Boceto 
 
-![]()
+![](https://github.com/lisseth9895/472499-objeto-bitacora/blob/ad46435d7da8f7c20fc4524f994a3ef024187a1c/boceto.jpg)
 
 
 
